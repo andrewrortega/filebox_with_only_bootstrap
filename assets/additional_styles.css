@@ -81,3 +81,11 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+
+.navbar-header{
+padding-left: 200px;
+}
+
+.navbar-right{
+padding-right: 180px;
+}
